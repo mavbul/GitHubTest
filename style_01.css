@@ -1,0 +1,13 @@
+p {color: red;}
+.btn{
+    border-radius: 15px;
+    font-family: Arial;
+}
+
+.green{
+    background-color: green;
+}
+
+.red{
+    background-color: red;
+}
